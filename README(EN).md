@@ -74,7 +74,7 @@ The Collection Visualization Beta of Art Archives, Seoul Museum of Art(SeMA AA) 
 ○ Applied Standards: RiC-CM (v1.0), RiC-O (v1.0.2)
 
 ○ Target Collection: Rim Dongsik Collection
-- [Access the Rim Dongsik Collection Ontology Graph (Click)](http://121.131.4.200:7200/graphs-visualizations?saved=779777255f0c4d698878138c2a4d493c)
+- [Access the Rim Dongsik Collection Ontology Graph (Click)](http://121.131.4.200:7200/graphs-visualizations?saved=29c15a055e2b4a32b7a02292068d4805)
 
     ※ Login is required to ensure a consistent operating environment. (Username: user / Password: semaaa)
 
